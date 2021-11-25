@@ -31,6 +31,8 @@
               "src/assets"
             ],
             "styles": [
+              "adaptivecards-designer/dist/adaptivecards-designer.css",
+              "adaptivecards-designer/dist/adaptivecards-defaulthost.css",
               "src/styles.scss"
             ],
             "scripts": []
